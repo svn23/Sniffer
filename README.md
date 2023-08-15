@@ -19,7 +19,7 @@ Simply clone this repository with `git clone`, install the dependencies and exec
 git clone https://github.com/svn23/Sniffer.git
 cd Sniffer
 pip install -r requirements.txt <--or--> poetry install
-sudo python3 Sniffer/sniffer.py
+sudo python3 packet_sniffer/sniffer.py
 ```
 
 *The `sudo` command is required due to the use of `socket.SOCK_RAW`,
