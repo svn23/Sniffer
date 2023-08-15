@@ -33,7 +33,7 @@ Use the `build.py` file to compile your own binary with the `PyInstaller` packag
 Dependency management works with both [Poetry](https://python-poetry.org/) (recommended) and [Virtualenv](https://virtualenv.pypa.io/en/latest/). 
 ```
 <-- Install dependencies as shown above in Step I -->
-user@host:~/packet-sniffer$ python3 build.py
+python3 build.py
 ```
 
 ## Usage
