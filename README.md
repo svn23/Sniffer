@@ -9,7 +9,8 @@ This application depends exclusively on the [NETProtocols](https://github.com/EO
 from version 2.0.0 and above and can be run by any Python 3.8+ interpreter.
 
 ## Demo
-![f38b7de4-9441-4f79-a8ef-7463ce35746a](https://github.com/svn23/Sniffer/assets/102777649/f5809663-610a-42d6-918b-fac81b64919f)
+![f38b7de4-9441-4f79-a8ef-7463ce35746a](https://github.com/svn23/Sniffer/assets/102777649/7d12d8d6-38f6-4500-8028-21efd7cb2c4f.gif)
+
 
 ## Running the Application
 ### I. Development Mode
