@@ -16,10 +16,10 @@ from version 2.0.0 and above and can be run by any Python 3.8+ interpreter.
 Simply clone this repository with `git clone`, install the dependencies and execute the 
 `sniffer.py` file.
 ```
-user@host:~$ git clone https://github.com/svn23/Sniffer.git
-user@host:~$ cd Packet-Sniffer
-user@host:~/packet-sniffer$ pip install -r requirements.txt <--or--> poetry install
-user@host:~/packet-sniffer$ sudo python3 packet_sniffer/sniffer.py
+git clone https://github.com/svn23/Sniffer.git
+cd Sniffer
+pip install -r requirements.txt <--or--> poetry install
+sudo python3 Sniffer/sniffer.py
 ```
 
 *The `sudo` command is required due to the use of `socket.SOCK_RAW`,
